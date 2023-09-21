@@ -34,7 +34,7 @@ safe for the duration of the event. We value your attendance.
 We expect participants to follow these rules at all hackathon venues, online interactions in
 relation to the event, hackathon-related social events.
 
-Reporting Procedures
+## Reporting Procedures
 If you feel uncomfortable or think there may be a potential violation of the code of conduct,
 please report it immediately using one of the following methods. All reporters have the
 right to remain anonymous.
@@ -42,13 +42,15 @@ right to remain anonymous.
 By sending information to the general reporting line, your report will go to any or all of the
 CodeWorks representatives listed below.
 
-- General Reporting - (208) 391-5162, incidents@boisecodeworks.com
+### General Reporting
+- (208) 391-5162, incidents@boisecodeworks.com
 
 Special Incidents
 If you are uncomfortable reporting your situation to one or more of these people or need
 to contact any of them directly in case of emergency, direct contact details are listed below.
-● Jake Overall - (208) 391-5185, jake@boisecodeworks.com
-● Zach Olsen - (510) 391-5160, zach@boisecodeworks.com
+
+- Jake Overall: (208) 391-5185, jake@boisecodeworks.com
+- Zach Olsen: (510) 391-5160, zach@boisecodeworks.com
 
 CodeWorks reserves the right to revise, make exceptions to, or otherwise amend these policies in
 whole or in part. If you have any questions regarding these policies, please contact CodeWorks by
